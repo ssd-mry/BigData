@@ -5,4 +5,4 @@
 https://blog.csdn.net/sinat_33585352/article/details/89888665  
 https://www.ngui.cc/51cto/show-503341.html  
 ## 补充 Ubuntu安装配置Hadoop
-见课件及课件注释
+见第三章课件及其注释
